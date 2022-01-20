@@ -1,0 +1,16 @@
+base
+tibble
+dplyr
+magrittr
+tidyr
+ggplot2
+cowplot
+gmp
+Rmpfr
+foreach
+gam
+nlme
+mgcv
+iterators
+doParallel
+Eskrate
