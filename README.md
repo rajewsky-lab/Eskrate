@@ -1,6 +1,8 @@
 ## Eskrate
 
-### Eskrate estimates time-dependent RNA kinetic rates using sorted cells and gene expression of labeled and unlabeled mature RNAs obtained from SLAM-Drop-seq data.
+### Eskrate estimates time-dependent RNA kinetic rates using:
+1. single cells with assigned times in biological process
+2. newly synthesized (labeled) and pre-existing (unlabeled) RNAs gene expression data for single cells (e.g. SLAM-Drop-seq data). 
 
 To use this package, first install it in R:
 
