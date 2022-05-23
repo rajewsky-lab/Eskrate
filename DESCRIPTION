@@ -5,8 +5,7 @@ Version: 0.1.0
 Author: Haiyue Liu
 Maintainer: The package maintainer <liuhaiyue2016@gmail.com>
 Description: This package is used for time-dependent RNA kinetic rates estimation.
-    The estimation is based on analytical solutions of ODEs that described in xxxx.
-    Use four spaces when indenting paragraphs within the Description.
+    The estimation is based on analytical solutions of ODEs that described in Liu et al.
 Depends: R (>= 3.6.0)
 Suggests:
     roxygen2,
