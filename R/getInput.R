@@ -45,7 +45,8 @@ getInput <-
       }
     if (!('tidyr' %in% installed.packages())) {
       stop("Please install tidyr")
-    }    if (!('tibble' %in% installed.packages())) {
+    }    
+    if (!('tibble' %in% installed.packages())) {
       stop("Please install tibble")
     }
     if (!('magrittr' %in% installed.packages())) {
