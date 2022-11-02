@@ -7,7 +7,7 @@
 To use this package, first install it in R:
 
 ```{r}
-devtools::install_github(“rajewsky-lab/Eskrate”)  
+devtools::install_github("rajewsky-lab/Eskrate")  
 ```
 
 Here's a simple tutorial for estiamting the cell cycle time-dependent RNA kinetic rates with the test data provided:
