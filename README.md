@@ -111,4 +111,8 @@ plot_grid(p1, p2, ncol=2)
 
 ### Reference
 
+Liu H*, Arsiè R*, Schwabe D, Schilling M, Minia I, Alles J, Boltengagen A, Kocks C, Falcke M, Friedman N, Landthaler M<sup>#</sup>, Rajewsky N<sup>#</sup> (2023) **[SLAM‐DROP ‐seq reveals MRNA kinetic rates throughout the cell cycle](https://doi.org/10.15252/msb.202211427).** *Mol Syst Biol*: e11427
+
+
+
 
